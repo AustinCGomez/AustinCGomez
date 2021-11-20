@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Senior at the Univeristy of Alabama in Huntsville
 Majoring in Information Systems /w a concentration in Cyber Security
 
