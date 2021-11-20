@@ -5,7 +5,7 @@ Majoring in Information Systems /w a concentration in Cyber Security
 ## Personal & University Projects 
 These are some projects that I have made for my courses at The University of Alabama in Huntsville! Many of them are demos and non-productive. You can still set-up most of them to work with the instructions that I provide. 
 
-## Mainainter Projects
+## Maintainer Projects
 These are my projects that I decided to make and maintain them as productive software projects! You are more than welcome to contribute to them and help spread the love of open source projects. 
 
 
