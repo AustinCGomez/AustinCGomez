@@ -1,6 +1,6 @@
 ## Cybersecurity Professional and avid hobbyist software developer
 
-#About Me: 
+### About Me: 
 I have been into software development since I was a teenager and I simply love the idea behind open source software. 
 
 # Areas of Interest: 
